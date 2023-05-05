@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/UrbanGarden/static/css/main.13c8be6e.css",
+    "main.js": "/UrbanGarden/static/js/main.b320461b.js",
+    "static/js/787.515e355f.chunk.js": "/UrbanGarden/static/js/787.515e355f.chunk.js",
+    "static/media/video.mp4": "/UrbanGarden/static/media/video.06367f06fcd2a42ab9b1.mp4",
+    "static/media/hey1.jpg": "/UrbanGarden/static/media/hey1.27ff4a9f98b831aa0690.jpg",
+    "static/media/moksh1.jpg": "/UrbanGarden/static/media/moksh1.f6478a234169c1e1a7e5.jpg",
+    "static/media/UrbanCustomer.jpg": "/UrbanGarden/static/media/UrbanCustomer.e7b0127a786f65121a3c.jpg",
+    "static/media/user1.jpeg": "/UrbanGarden/static/media/user1.ed3f4cb9d4b48918d668.jpeg",
+    "static/media/image8.jpeg": "/UrbanGarden/static/media/image8.6a3d8d2be5ad46af98b0.jpeg",
+    "static/media/image9.jpeg": "/UrbanGarden/static/media/image9.f3887a5ae815714ca484.jpeg",
+    "static/media/image5.jpeg": "/UrbanGarden/static/media/image5.29c15815087362757d46.jpeg",
+    "static/media/image7.jpeg": "/UrbanGarden/static/media/image7.6b0be249ce8aa8bcfc98.jpeg",
+    "static/media/image6.jpeg": "/UrbanGarden/static/media/image6.86bd6d1d982806feab88.jpeg",
+    "static/media/image1.webp": "/UrbanGarden/static/media/image1.37ae05c129abbb9a83e3.webp",
+    "index.html": "/UrbanGarden/index.html",
+    "main.13c8be6e.css.map": "/UrbanGarden/static/css/main.13c8be6e.css.map",
+    "main.b320461b.js.map": "/UrbanGarden/static/js/main.b320461b.js.map",
+    "787.515e355f.chunk.js.map": "/UrbanGarden/static/js/787.515e355f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c8be6e.css",
+    "static/js/main.b320461b.js"
+  ]
+}
